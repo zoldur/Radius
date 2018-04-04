@@ -4,8 +4,8 @@ Shell script to install a [Radius Masternode](http://www.radiuscrypto.online/) o
 
 ## Installation
 ```
-wget -q https://raw.githubusercontent.com/zoldur/Radius/master/Radius_install.sh
-bash Radius_install.sh
+wget -q https://raw.githubusercontent.com/zoldur/Radius/master/radius_install.sh
+bash radius_install.sh
 ```
 ***
 
