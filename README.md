@@ -38,14 +38,14 @@ masternode start-alias MN1
 ``` 
 14. Login to your VPS and check your masternode status by running the following command. 
 ```
-radius_cli masternode status
+radius-cli masternode status
 ```
 ***
 
 ## Usage:
 ```
-radius_cli masternode status  
-radius_cli getinfo
+radius-cli masternode status  
+radius-cli getinfo
 ```
 Also, if you want to check/start/stop **Radius**, run one of the following commands as **root**:
 
